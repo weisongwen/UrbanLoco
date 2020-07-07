@@ -18,7 +18,7 @@ Keywords: **Mpapping**, **Localization**, **Urban Areas**, **Full Sensor Suit**,
 - [Yiyang Zhou](https://www.linkedin.com/in/yiyang-zhou-67b47074) from the [Mechanical System Control Laboratory](https://msc.berkeley.edu/people/students.html), The University of California, Berkeley
 - [Weisong Wen](https://weisongwen.wixsite.com/weisongwen) from the [Intelligent Positioning and Navigation Laboratory](https://www.polyu-ipn-lab.com/), The Hong Kong Polytechnique University. 
 
-**Related Papers (Submitted):** 
+**Related Papers :** 
   - Weisong Wen, Yiyang Zhou, Guohao Zhang, Saman Fahandezh-Saadi, Xiwei Bai, Wei Zhan, Masayoshi Tomizuka, and Li-Ta Hsu, **UrbanLoco: A Full Sensor Suite Dataset for Mapping and Localization in Urban Scenes**, ICRA 2020, Paris, France.
 
 *if you use UrbanLoco for your academic research, please cite our paper.*
@@ -36,11 +36,10 @@ The platform for data collection in Hong Kong is a Honda Fit. The platform is eq
   <img width="712pix" src="img/prius.png">
 </p>
 
-### 1.2 **Intrinsic and Extrinsic Parameters**
+### **Intrinsic and Extrinsic Parameters**, **ROSBAG Information**
 
 The coordinates transformation between multiple sensors, and intrinsic parameters of camera can be found via [Intrinsic and Extrinsic Parameters](calibration_CA/calibration_CA.txt).
 
-### 1.3 **ROSBAG Information**
 - ROSBAG file which includes:
   - GNSS positioning (solution directly from GNSS receiver): ```/ublox_node/fix```
   - 3D LiDAR point clouds: ```/rslidar_points```
@@ -78,7 +77,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 60.6 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1DT63NIesrs49SwF3bMtQfa9ppas2kKbj) |Dynamic Objects, high-rising buildings|
+  | 2019/08/28 | 60.6 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-rising buildings|
 
 <p align="center">
   <img width="420pix" src="img/CAMarketStreet20190828155828.png">
@@ -90,7 +89,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 67.2 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1Hxf5X6KfaaXMluGil8prtzSaQtkU2eUm) |Dynamic Objects, high-rising buildings|
+  | 2019/08/28 | 67.2 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-rising buildings|
 
 <p align="center">
   <img width="420pix" src="img/CARussianHill20190828173350.png">
@@ -102,7 +101,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 54.3 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1ote8Ux6r6sTN9aQQJ-C0XivqtOCB5o0s) |Dynamic Objects, high-rising buildings|
+  | 2019/08/28 | 54.3 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-rising buildings|
 
 <p align="center">
   <img width="420pix" src="img/CAChinaTown20190828180248.png">
@@ -114,7 +113,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 9.73 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=11j5NHTbTQSXQNAfFBh1DAkIAs7f-ZUlA) |Dynamic Objects, high-rising buildings|
+  | 2019/08/28 | 9.73 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-rising buildings|
 
 <p align="center">
   <img width="320pix" src="img/CAColiTower20190828184706.png">
@@ -126,7 +125,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 9.83 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1G_sI1IKXU7z8tD4xnKT5JWLI_WxTwQhC) |Dynamic Objects, high-rising buildings|
+  | 2019/08/28 | 9.83 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-rising buildings|
 
 <p align="center">
   <img width="420pix" src="img/CALombardStreet20190828190411.png">
@@ -138,12 +137,95 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 40.1 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=19Z283ZN1dnMBfrPLTvOb-mjqDwlesTDO) |Dynamic Objects, high-speed dataset|
+  | 2019/08/28 | 40.1 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-speed dataset|
 
 <p align="center">
   <img width="420pix" src="img/CAGoldenBridge20190828191451.png">
 </p>
 
+
+## 2. Hong Kong Dataset
+### 2.1 **Sensor Setups**
+The platform for data collection in Hong Kong is a Honda Fit. The platform is equipped with the following sensors:
+  - 3D LiDAR snesor ([HDL 32E Velodyne](https://velodynelidar.com/products/hdl-32e/)): (360 HFOV, +10~-30 VFOV, 80m range, 10Hz) 
+  - IMU ([Xsens Mti 10](https://www.xsens.com/products/mti-10-series), 100 Hz, AHRS)
+  - GNSS receiver: u-blox M8T or u-blox F9P (**to be updated**)  
+  - camera:(1920X1200,79.4°X96.8°, 10Hz) 
+  - [SPAN-CPT](https://www.novatel.com/products/span-gnss-inertial-systems/span-combined-systems/span-cpt/):(RTK GNSS/INS,RMSE: 5cm, 1Hz) 
+
+<p align="center">
+  <img width="712pix" src="img/hongkong_sensor.png">
+</p>
+
+### **Intrinsic and Extrinsic Parameters**, **ROSBAG Information**
+The coordinates transformation between multiple sensors, and intrinsic measurements of camera can be found via [Extrinsic Parameters](calibration_HK/extrinsic.yaml) and [Intrinsic Parameters of Camera](calibration_HK/camera_intrinsic.yaml).
+
+- ROSBAG file which includes:
+  - GNSS positioning (solution directly from GNSS receiver): ```/ublox_node/fix```
+      - 3D LiDAR point clouds: ```/velodyne_points```
+      - Camera: ```/camera/image_color```
+      - IMU: ```/imu/data```
+      - SPAN-CPT: ```/novatel_data/inspvax```
+
+### 2.2. Dataset 1: HK-Data20190426-2
+**Brief**: Dataset HK-Data20190426-2 is collected near Whampooa of Hong Kong. 
+
+**Some key features are as follows**:
+  | Date of Collection | Total Size |Sensors |Download |Features |
+  | :---:  | :---:  |:---:  |:---:  |:---:  |
+  | 2019/04/26 | 41.6 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1SjoaItY2CDbuRrYEnyfQtI6MGNq0zC9I) |Dynamic Objects, Tall buildings |
+
+<p align="center">
+  <img width="420pix" src="img/HK-Data20190426-2.png">
+</p>
+
+### 2.3. Dataset 2: HK-Data20190426-1
+**Brief**: Dataset HK-Data20190426-1 is collected near Ma Tau Kok of Hong Kong. 
+
+**Some key features are as follows**:
+  | Date of Collection | Total Size |Sensors |Download |Features |
+  | :---:  | :---:  |:---:  |:---:  |:---:  |
+  | 2019/04/26 | 24.0 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1SjoaItY2CDbuRrYEnyfQtI6MGNq0zC9I) |Poor GNSS visibilities, Very Tall buildings |
+
+<p align="center">
+  <img width="420pix" src="img/HK-Data20190426-1.png">
+</p>
+
+### 2.4. Dataset 3: HK-Data20190316-2
+**Brief**: Dataset HK-Data20190316-2 is collected near Ma Tau Kok of Hong Kong. 
+
+**Some key features are as follows**:
+  | Date of Collection | Total Size |Sensors |Download |Features |
+  | :---:  | :---:  |:---:  |:---:  |:---:  |
+  | 2019/03/16 | 62.3 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1SjoaItY2CDbuRrYEnyfQtI6MGNq0zC9I) |Poor GNSS visibilities, Very Tall buildings |
+
+<p align="center">
+  <img width="420pix" src="img/HK-Data20190316-2.png">
+</p>
+
+### 2.5. Dataset 4: HK-Data20190316-1
+**Brief**: Dataset HK-Data20190316-1 is collected near Ma Tau Kok of Hong Kong. 
+
+**Some key features are as follows**:
+  | Date of Collection | Total Size |Sensors |Download |Features |
+  | :---:  | :---:  |:---:  |:---:  |:---:  |
+  | 2019/03/16 | 27.9 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1SjoaItY2CDbuRrYEnyfQtI6MGNq0zC9I) |Poor GNSS visibilities, Very Tall buildings |
+
+<p align="center">
+  <img width="420pix" src="img/HK-Data20190316-1.png">
+</p>
+
+### 2.6. Dataset 5: HK-Data20190117
+**Brief**: Dataset HK-Data20190117 is collected near Ma Tau Kok of Hong Kong. 
+
+**Some key features are as follows**:
+  | Date of Collection | Total Size |Sensors |Download |Features |
+  | :---:  | :---:  |:---:  |:---:  |:---:  |
+  | 2019/03/16 | 6.11 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1SjoaItY2CDbuRrYEnyfQtI6MGNq0zC9I) |Poor GNSS visibilities, Very Tall buildings |
+
+<p align="center">
+  <img width="420pix" src="img/HK-Data20190117.png">
+</p>
 
 ## 3. Easy Use Scripts
 
@@ -156,9 +238,9 @@ catkin_make
 source ~/catkin_ws/devel/setup.bash
 ```
 ### Usage
-- install some additional library
+- Install additional library
   ```
-  $ sudo pip install pykml
+  sudo pip install pykml
   ```
 - spancpt2kml.py
   - run and save the trajectory of span-cpt to .kml file
