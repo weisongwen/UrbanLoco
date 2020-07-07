@@ -221,7 +221,7 @@ The coordinates transformation between multiple sensors, and intrinsic measureme
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/03/16 | 6.11 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1SjoaItY2CDbuRrYEnyfQtI6MGNq0zC9I) |Poor GNSS visibilities, Very Tall buildings |
+  | 2019/03/16 | 6.11 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://drive.google.com/open?id=1SjoaItY2CDbuRrYEnyfQtI6MGNq0zC9I) |decent GNSS visibilities, sub-urban |
 
 <p align="center">
   <img width="420pix" src="img/HK-Data20190117.png">
