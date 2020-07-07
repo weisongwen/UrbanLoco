@@ -1,0 +1,7 @@
+1556455885.437993
+1556456149.165444
+
+rosbag filter 2019-04-28-20-50-10.bag output.bag "t.secs >= 1556455885.437993 and t.secs <= 1556456149.165444"
+
+more complicated scenario with dense traffic, half open sky?
+
