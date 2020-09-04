@@ -229,30 +229,33 @@ The coordinates transformation between multiple sensors, and intrinsic measureme
 
 ## 3. Easy Use Scripts
 
-### Build
-```bash
-cd ~/catkin_ws/src
-git clone https://github.com/weisongwen/UrbanLoco
-cd ../
-catkin_make
-source ~/catkin_ws/devel/setup.bash
-```
-### Usage
-- Install additional library
+### 3.1 Extract ground truth and u-blox solution to .kml file
+  - Build
+  ```bash
+  cd ~/catkin_ws/src
+  git clone https://github.com/weisongwen/UrbanLoco
+  cd ../
+  catkin_make
+  source ~/catkin_ws/devel/setup.bash
   ```
-  sudo pip install pykml
-  ```
-- spancpt2kml.py
-  - run and save the trajectory of span-cpt to .kml file
-    ```
-    python spancpt2kml.py
-    ```
-- ublox2kml.py
-  - run and save the trajectory of u-blox to .kml file
-    ```
-    python ublox2kml.py
-    ```
+  - Usage
+    - Install additional library
+      ```
+      sudo pip install pykml
+      ```
+    - spancpt2kml.py
+      - run and save the trajectory of span-cpt to .kml file
+        ```
+        python spancpt2kml.py
+        ```
+    - ublox2kml.py
+      - run and save the trajectory of u-blox to .kml file
+        ```
+        python ublox2kml.py
+        ```
+### 3.2 Extract the raw GNSS measurements from ```/ublox_node/...``` to RINEX file
 
+Some researchers may want to apply the RTKLIB to process the GNSS data using the [RTKLIB](https://github.com/tomojitakasu/RTKLIB) which is mainly used in the GNSS field, we recommend to use one piece of code from [ublox2rinex](https://github.com/TakahashiJinxu/ublox2rinex) and [issue](https://github.com/weisongwen/UrbanLoco/issues/4).
 ## 3. Acknowledgements
 The authors from Berkeley hereby thank the generous support of Robosense, whose donation of a Robosense R32 LIDAR is a critical step in our data acquisition process. We also thank Di Wang for his contributions on vehicle instrumentation at UC Berkeley.
 
