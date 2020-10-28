@@ -158,7 +158,7 @@ The platform for data collection in Hong Kong is a Honda Fit. The platform is eq
 </p>
 
 ### **Intrinsic and Extrinsic Parameters**, **ROSBAG Information**
-The coordinates transformation between multiple sensors, and intrinsic measurements of camera can be found via [Extrinsic Parameters](calibration_HK/extrinsic.yaml) and [Intrinsic Parameters of Camera](calibration_HK/camera_intrinsic.yaml).
+The coordinates transformation between multiple sensors, and intrinsic measurements of camera can be found via [Extrinsic Parameters](calibration_HK/extrinsic.yaml) and [Intrinsic Parameters of Camera](calibration_HK/camera_intrinsic.yaml). The fish-eye camera intrinsic parameters can be found through [here](calibration_HK/Fisheye_camera_intrinsic.yaml).
 
 - ROSBAG file which includes:
   - GNSS positioning (solution directly from GNSS receiver): ```/ublox_node/fix```

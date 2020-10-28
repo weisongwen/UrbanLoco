@@ -1,0 +1,12 @@
+#the camera intrinsics is calibrated with the Kalibr (https://github.com/ethz-asl/kalibr)
+cam0:
+  cam_overlaps: []
+  camera_model: omni
+  distortion_coeffs: [-0.13274940732954246, 0.3435168982763474, 0.007927480590485703,
+    -0.00010939869901162644]
+  distortion_model: radtan
+  intrinsics: [1.5877119920012108, 1308.1691840205795, 1318.683585974909, 1221.8790961896898,
+    1052.024852216732]
+  resolution: [2448, 2048]
+  rostopic: /camera/image_color
+
