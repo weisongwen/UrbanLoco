@@ -23,6 +23,10 @@ Keywords: **Mpapping**, **Localization**, **Urban Areas**, **Full Sensor Suit**,
 
 *if you use UrbanLoco for your academic research, please cite our paper.*
 
+**Work related to urbanLoco Dataset :** 
+  - Liu, Jinxu, Wei Gao, and Zhanyi Hu. "Optimization-Based Visual-Inertial SLAM Tightly Coupled with Raw GNSS Measurements." arXiv preprint arXiv:2010.11675 (2020).[paper](https://arxiv.org/pdf/2010.11675.pdf)
+  - Li, Kailai, Meng Li, and Uwe D. Hanebeck. "Towards high-performance solid-state-lidar-inertial odometry and mapping." arXiv preprint arXiv:2010.13150 (2020). [Code](https://github.com/KIT-ISAS/lili-om)
+
 ## 1. California Dataset
 ### 1.1 **Sensor Setups**
 The platform for data collection in Hong Kong is a Honda Fit. The platform is equipped with the following sensors:

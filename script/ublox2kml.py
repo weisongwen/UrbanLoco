@@ -23,7 +23,7 @@ import time #time format (time)
 
 class pullh2kml_eval():
     def __init__(self):
-        rospy.Subscriber('/ublox_node/fix', NavSatFix, self.callublox_llh)
+        rospy.Subscriber('/gnss', NavSatFix, self.callublox_llh)
         self.lat_ = [] # used to save latitude
         self.lon_ = [] # used to save longitude
         self.GPS_Week_Second = 0.0
