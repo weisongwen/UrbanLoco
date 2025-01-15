@@ -63,7 +63,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 44.6 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true)|Dynamic Objects, Sharp Turn|
+  | 2019/08/28 | 44.6 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0)|Dynamic Objects, Sharp Turn|
   
   <!-- |  |  | | | |
   | **GNSS** | **IMU** |**LiDAR** |**Camera** | **Ground Truth**|
@@ -81,7 +81,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 60.6 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-rising buildings|
+  | 2019/08/28 | 60.6 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |Dynamic Objects, high-rising buildings|
 
 <p align="center">
   <img width="420pix" src="img/CAMarketStreet20190828155828.png">
@@ -93,7 +93,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 67.2 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-rising buildings|
+  | 2019/08/28 | 67.2 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |Dynamic Objects, high-rising buildings|
 
 <p align="center">
   <img width="420pix" src="img/CARussianHill20190828173350.png">
@@ -105,7 +105,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 54.3 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-rising buildings|
+  | 2019/08/28 | 54.3 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |Dynamic Objects, high-rising buildings|
 
 <p align="center">
   <img width="420pix" src="img/CAChinaTown20190828180248.png">
@@ -117,7 +117,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 9.73 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-rising buildings|
+  | 2019/08/28 | 9.73 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |Dynamic Objects, high-rising buildings|
 
 <p align="center">
   <img width="320pix" src="img/CAColiTower20190828184706.png">
@@ -129,7 +129,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 9.83 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-rising buildings|
+  | 2019/08/28 | 9.83 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |Dynamic Objects, high-rising buildings|
 
 <p align="center">
   <img width="420pix" src="img/CALombardStreet20190828190411.png">
@@ -141,7 +141,7 @@ The coordinates transformation between multiple sensors, and intrinsic parameter
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/08/28 | 40.1 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, high-speed dataset|
+  | 2019/08/28 | 40.1 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |Dynamic Objects, high-speed dataset|
 
 <p align="center">
   <img width="420pix" src="img/CAGoldenBridge20190828191451.png">
@@ -170,14 +170,14 @@ The coordinates transformation between multiple sensors, and intrinsic measureme
       - Camera: ```/camera/image_color```
       - IMU: ```/imu/data```
       - SPAN-CPT: ```/novatel_data/inspvax```
-
+Note that majority Hong Kong data is provided in ROS2 format.
 ### 2.2. Dataset 1: HK-Data20190426-2
 **Brief**: Dataset HK-Data20190426-2 is collected near Whampooa of Hong Kong. 
 
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/04/26 | 41.6 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Dynamic Objects, Tall buildings |
+  | 2019/04/26 | 41.6 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |Dynamic Objects, Tall buildings |
 
 <p align="center">
   <img width="420pix" src="img/HK-Data20190426-2.png">
@@ -189,7 +189,7 @@ The coordinates transformation between multiple sensors, and intrinsic measureme
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/04/26 | 24.0 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Poor GNSS visibilities, Very Tall buildings |
+  | 2019/04/26 | 24.0 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |Poor GNSS visibilities, Very Tall buildings |
 
 <p align="center">
   <img width="420pix" src="img/HK-Data20190426-1.png">
@@ -201,7 +201,7 @@ The coordinates transformation between multiple sensors, and intrinsic measureme
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/03/16 | 62.3 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Poor GNSS visibilities, Very Tall buildings |
+  | 2019/03/16 | 62.3 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |Poor GNSS visibilities, Very Tall buildings |
 
 <p align="center">
   <img width="420pix" src="img/HK-Data20190316-2.png">
@@ -213,7 +213,7 @@ The coordinates transformation between multiple sensors, and intrinsic measureme
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/03/16 | 27.9 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |Poor GNSS visibilities, Very Tall buildings |
+  | 2019/03/16 | 27.9 GB|GNSS/LiDAR/Fish-eye Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |Poor GNSS visibilities, Very Tall buildings |
 
 <p align="center">
   <img width="420pix" src="img/HK-Data20190316-1.png">
@@ -225,7 +225,7 @@ The coordinates transformation between multiple sensors, and intrinsic measureme
 **Some key features are as follows**:
   | Date of Collection | Total Size |Sensors |Download |Features |
   | :---:  | :---:  |:---:  |:---:  |:---:  |
-  | 2019/03/16 | 6.11 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[GoogleDrive](https://docs.google.com/forms/d/1ZnyFr58RINXe3HXNMJBp2DMITNcprcM45oIhSHXMkFk/viewform?edit_requested=true) |decent GNSS visibilities, sub-urban |
+  | 2019/03/16 | 6.11 GB|GNSS/LiDAR/Camera/IMU/SPAN-CPT |[Dropbox](https://www.dropbox.com/scl/fo/zrsmoddbq96t4go1wbxwp/AJw_DGVXng06DmLx9j9iQMs?rlkey=rk11n8tt62ejbg8mbixrm6quz&e=1&st=j7sy3izj&dl=0) |decent GNSS visibilities, sub-urban |
 
 <p align="center">
   <img width="420pix" src="img/HK-Data20190117.png">
